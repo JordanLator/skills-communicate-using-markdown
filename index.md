@@ -6,3 +6,7 @@
 
 # Add Image
 ![image of cloud graphique](https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-110949/110-4K-Minimalist-ideas.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
